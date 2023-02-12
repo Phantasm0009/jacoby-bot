@@ -1,0 +1,459 @@
+{"level":30,"time":1676237061073,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1676237061074,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"config.js: OWNER_IDS are empty"}
+{"level":40,"time":1676237061074,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1676237061532,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Loading commands..."}
+{"level":20,"time":1676237061545,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237061547,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237061966,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237062002,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1676237062003,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1676237062004,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1676237062005,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1676237064725,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1676237064726,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1676237064728,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1676237064728,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1676237064734,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1676237064735,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1676237064737,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1676237064738,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1676237064740,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1676237064787,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1676237064788,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1676237064790,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1676237064792,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1676237064793,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1676237064794,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1676237064795,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1676237064796,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1676237064797,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1676237064798,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1676237064798,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1676237064799,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1676237064800,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1676237064800,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1676237064803,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1676237064804,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1676237064805,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1676237064806,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1676237064808,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1676237064808,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1676237064809,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1676237064812,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1676237064812,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1676237064813,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1676237064813,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1676237064815,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1676237064816,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1676237064817,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1676237064817,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1676237064819,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1676237064820,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1676237064821,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1676237064822,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1676237064823,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1676237064824,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1676237064824,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1676237064825,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1676237064826,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1676237064835,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1676237064836,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1676237064850,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1676237064851,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1676237064852,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1676237064855,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1676237064856,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1676237064858,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1676237064858,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1676237064859,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1676237064859,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1676237064860,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1676237064861,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1676237064862,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1676237064862,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1676237064863,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1676237064866,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1676237064867,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1676237064868,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1676237064868,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1676237064870,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1676237064873,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1676237064875,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1676237064876,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1676237064937,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 42 commands"}
+{"level":30,"time":1676237064937,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 33 slash commands"}
+{"level":30,"time":1676237064937,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Loading contexts..."}
+{"level":30,"time":1676237064939,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1676237064939,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1676237064940,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Loading events..."}
+{"level":30,"time":1676237065006,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1676237065204,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1676237065205,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1676237065739,"pid":13728,"hostname":"DESKTOP-7OFETF7","msg":"Mongoose: Database connection established"}
+{"level":50,"time":1676237066281,"pid":13728,"hostname":"DESKTOP-7OFETF7","err":{"type":"DiscordjsError","message":"Privileged intent provided is not enabled or whitelisted.","stack":"Error [DisallowedIntents]: Privileged intent provided is not enabled or whitelisted.\n    at WebSocketManager.createShards (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:250:15)\n    at async BotClient.login (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\discord.js\\src\\client\\Client.js:226:7)\n    at async C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\bot.js:46:3","code":"DisallowedIntents"},"msg":"Unhandled exception: Privileged intent provided is not enabled or whitelisted."}
+{"level":30,"time":1676237121501,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Validating config file and environment variables"}
+{"level":40,"time":1676237121502,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"config.js: OWNER_IDS are empty"}
+{"level":40,"time":1676237121502,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":30,"time":1676237121546,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Loading commands..."}
+{"level":20,"time":1676237121560,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237121561,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237121613,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237121626,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command bank. Category ECONOMY is disabled"}
+{"level":20,"time":1676237121627,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command beg. Category ECONOMY is disabled"}
+{"level":20,"time":1676237121627,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command daily. Category ECONOMY is disabled"}
+{"level":20,"time":1676237121628,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command gamble. Category ECONOMY is disabled"}
+{"level":20,"time":1676237122113,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command giveaway. Category GIVEAWAY is disabled"}
+{"level":20,"time":1676237122115,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1676237122116,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1676237122117,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1676237122122,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1676237122123,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1676237122125,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1676237122128,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1676237122129,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1676237122138,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1676237122139,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1676237122140,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1676237122142,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1676237122143,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1676237122145,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1676237122146,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1676237122147,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1676237122148,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1676237122151,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1676237122152,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1676237122152,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1676237122153,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1676237122153,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1676237122156,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ban. Category MODERATION is disabled"}
+{"level":20,"time":1676237122156,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command kick. Category MODERATION is disabled"}
+{"level":20,"time":1676237122157,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command deafen. Category MODERATION is disabled"}
+{"level":20,"time":1676237122158,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command disconnect. Category MODERATION is disabled"}
+{"level":20,"time":1676237122160,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command move. Category MODERATION is disabled"}
+{"level":20,"time":1676237122161,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1676237122161,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgeattach. Category MODERATION is disabled"}
+{"level":20,"time":1676237122164,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgebots. Category MODERATION is disabled"}
+{"level":20,"time":1676237122164,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgelinks. Category MODERATION is disabled"}
+{"level":20,"time":1676237122165,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgetoken. Category MODERATION is disabled"}
+{"level":20,"time":1676237122165,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purgeuser. Category MODERATION is disabled"}
+{"level":20,"time":1676237122166,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command undeafen. Category MODERATION is disabled"}
+{"level":20,"time":1676237122168,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command vmute. Category MODERATION is disabled"}
+{"level":20,"time":1676237122169,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command vunmute. Category MODERATION is disabled"}
+{"level":20,"time":1676237122169,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command nick. Category MODERATION is disabled"}
+{"level":20,"time":1676237122171,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command purge. Category MODERATION is disabled"}
+{"level":20,"time":1676237122172,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command voice. Category MODERATION is disabled"}
+{"level":20,"time":1676237122173,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command softban. Category MODERATION is disabled"}
+{"level":20,"time":1676237122174,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command timeout. Category MODERATION is disabled"}
+{"level":20,"time":1676237122175,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command unban. Category MODERATION is disabled"}
+{"level":20,"time":1676237122175,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command untimeout. Category MODERATION is disabled"}
+{"level":20,"time":1676237122176,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command warn. Category MODERATION is disabled"}
+{"level":20,"time":1676237122177,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command warnings. Category MODERATION is disabled"}
+{"level":20,"time":1676237122178,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1676237122180,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1676237122181,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1676237122182,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1676237122183,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1676237122184,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1676237122189,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1676237122191,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1676237122192,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1676237122193,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1676237122193,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1676237122194,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1676237122195,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1676237122195,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1676237122196,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1676237122197,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1676237122198,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1676237122200,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command rank. Category STATS is disabled"}
+{"level":20,"time":1676237122201,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command stats. Category STATS is disabled"}
+{"level":20,"time":1676237122202,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command statstracking. Category STATS is disabled"}
+{"level":20,"time":1676237122203,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command levelup. Category STATS is disabled"}
+{"level":20,"time":1676237122204,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command suggest. Category SUGGESTION is disabled"}
+{"level":20,"time":1676237122207,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command suggestion. Category SUGGESTION is disabled"}
+{"level":20,"time":1676237122209,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1676237122210,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1676237122224,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 42 commands"}
+{"level":30,"time":1676237122224,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 33 slash commands"}
+{"level":30,"time":1676237122225,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Loading contexts..."}
+{"level":30,"time":1676237122228,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1676237122228,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1676237122228,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Loading events..."}
+{"level":30,"time":1676237122280,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1676237122490,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1676237122490,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1676237123028,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1676237124677,"pid":14032,"hostname":"DESKTOP-7OFETF7","msg":"Logged in as Jacoby#0201! (996103577556758538)"}
+{"level":30,"time":1676237189235,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Validating config file and environment variables"}
+{"level":30,"time":1676237189288,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Loading commands..."}
+{"level":20,"time":1676237189301,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237189302,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237189341,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237189973,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1676237189974,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1676237189975,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1676237189977,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1676237189978,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1676237189989,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1676237189990,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1676237189992,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1676237189993,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1676237189994,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1676237190018,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1676237190020,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1676237190021,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1676237190022,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1676237190022,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1676237190025,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1676237190026,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1676237190027,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1676237190027,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1676237190029,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1676237190030,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1676237190031,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1676237190035,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1676237190036,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1676237190044,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1676237190046,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1676237190047,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1676237190052,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1676237190053,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1676237190055,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1676237190061,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1676237190063,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1676237190066,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1676237190067,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1676237190067,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1676237190068,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1676237190068,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1676237190069,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1676237190070,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1676237190070,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1676237190071,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1676237190086,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1676237190086,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1676237190109,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 86 commands"}
+{"level":30,"time":1676237190109,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 67 slash commands"}
+{"level":30,"time":1676237190109,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Loading contexts..."}
+{"level":30,"time":1676237190111,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1676237190111,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1676237190111,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Loading events..."}
+{"level":30,"time":1676237190161,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1676237190381,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1676237190381,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Launching dashboard"}
+{"level":30,"time":1676237192207,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1676237192687,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1676237192745,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1676237194010,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Logged in as Jacoby#0201! (996103577556758538)"}
+{"level":30,"time":1676237194010,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1676237194064,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1676237194739,"pid":10288,"hostname":"DESKTOP-7OFETF7","msg":"Successfully registered interactions"}
+{"level":30,"time":1676237309968,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Validating config file and environment variables"}
+{"level":30,"time":1676237310026,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Loading commands..."}
+{"level":20,"time":1676237310047,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237310047,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237310102,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237310710,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1676237310711,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1676237310713,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1676237310714,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1676237310715,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1676237310726,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1676237310727,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1676237310729,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1676237310730,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1676237310731,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1676237310745,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1676237310746,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1676237310747,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1676237310748,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1676237310749,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1676237310752,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1676237310753,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1676237310754,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1676237310755,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1676237310757,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1676237310758,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1676237310759,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1676237310761,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1676237310763,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1676237310768,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1676237310769,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1676237310770,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1676237310772,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1676237310773,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1676237310774,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1676237310778,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1676237310779,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1676237310781,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1676237310782,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1676237310782,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1676237310783,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1676237310783,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1676237310784,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1676237310786,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1676237310787,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1676237310788,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1676237310800,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1676237310801,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1676237310816,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 86 commands"}
+{"level":30,"time":1676237310816,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 67 slash commands"}
+{"level":30,"time":1676237310816,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Loading contexts..."}
+{"level":30,"time":1676237310817,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1676237310818,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1676237310818,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Loading events..."}
+{"level":30,"time":1676237310864,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1676237311072,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1676237311072,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Launching dashboard"}
+{"level":30,"time":1676237311279,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1676237311754,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1676237311780,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1676237313419,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Logged in as Jacoby#0201! (996103577556758538)"}
+{"level":30,"time":1676237313419,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1676237313465,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1676237313819,"pid":14216,"hostname":"DESKTOP-7OFETF7","msg":"Successfully registered interactions"}
+{"level":50,"time":1676237351194,"pid":14216,"hostname":"DESKTOP-7OFETF7","err":{"type":"ValidationError","message":"guild validation failed: undefined: Cannot read properties of undefined (reading 'options')","stack":"ValidationError: guild validation failed: undefined: Cannot read properties of undefined (reading 'options')\n    at model.Document.invalidate (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\document.js:3123:32)\n    at _init (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\document.js:784:18)\n    at init (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\document.js:735:5)\n    at _init (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\document.js:758:7)\n    at init (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\document.js:735:5)\n    at model.Document.$__init (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\document.js:694:3)\n    at model.syncWrapper [as $__init] (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\kareem\\index.js:328:25)\n    at model.Document.init (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\document.js:638:8)\n    at model.Document.$init (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\document.js:654:42)\n    at Object.createModelAndInit (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\mongoose\\lib\\queryhelpers.js:137:12)","errors":{"undefined":{"name":"ValidatorError","message":"Cannot read properties of undefined (reading 'options')","properties":{"message":"Cannot read properties of undefined (reading 'options')","type":"cast","reason":{}},"kind":"cast","reason":{}}},"_message":"guild validation failed"},"msg":"Unhandled exception: guild validation failed: undefined: Cannot read properties of undefined (reading 'options')"}
+{"level":30,"time":1676237625255,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Validating config file and environment variables"}
+{"level":30,"time":1676237625323,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Loading commands..."}
+{"level":20,"time":1676237625339,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237625341,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237625395,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1676237625927,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1676237625929,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1676237625930,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1676237625932,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1676237625933,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1676237625945,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1676237625946,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1676237625948,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1676237625951,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1676237625952,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1676237625967,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1676237625968,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1676237625970,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1676237625972,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1676237625973,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1676237625978,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1676237625979,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1676237625980,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1676237625981,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1676237625982,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1676237625983,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1676237625984,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1676237625988,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1676237625990,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1676237625996,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1676237625998,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1676237625999,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1676237626002,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1676237626002,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1676237626004,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1676237626008,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1676237626009,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1676237626011,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1676237626012,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1676237626012,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1676237626013,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1676237626013,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1676237626014,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1676237626015,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1676237626016,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1676237626016,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1676237626028,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1676237626029,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1676237626044,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 86 commands"}
+{"level":30,"time":1676237626044,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 67 slash commands"}
+{"level":30,"time":1676237626044,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Loading contexts..."}
+{"level":30,"time":1676237626046,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1676237626046,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1676237626046,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Loading events..."}
+{"level":30,"time":1676237626101,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1676237626299,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1676237626299,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Launching dashboard"}
+{"level":30,"time":1676237626491,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1676237626981,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1676237627008,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1676237628244,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Logged in as Jacoby#0201! (996103577556758538)"}
+{"level":30,"time":1676237628244,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1676237628301,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1676237628576,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Successfully registered interactions"}
+{"level":30,"time":1676237823720,"pid":12932,"hostname":"DESKTOP-7OFETF7","msg":"Guild Joined: level farm Members: 2"}
+{"level":30,"time":1676238664823,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Validating config file and environment variables"}
+{"level":30,"time":1676238664868,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Loading commands..."}
+{"level":20,"time":1676238664881,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1676238664882,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1676238664921,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1676238665359,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1676238665359,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1676238665361,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1676238665362,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1676238665363,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1676238665371,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1676238665371,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1676238665372,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1676238665373,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1676238665374,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1676238665385,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1676238665386,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1676238665387,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1676238665388,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1676238665388,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1676238665390,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1676238665391,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1676238665391,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1676238665392,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1676238665393,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1676238665394,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1676238665395,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1676238665398,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1676238665399,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1676238665415,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1676238665416,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1676238665416,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping slash command listservers. Disabled!"}
+{"level":20,"time":1676238665425,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticket. Category TICKET is disabled"}
+{"level":20,"time":1676238665426,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Skipping Command ticketcat. Category TICKET is disabled"}
+{"level":30,"time":1676238665437,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 100 commands"}
+{"level":30,"time":1676238665437,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 81 slash commands"}
+{"level":30,"time":1676238665438,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Loading contexts..."}
+{"level":30,"time":1676238665439,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1676238665439,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1676238665439,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Loading events..."}
+{"level":30,"time":1676238665476,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1676238665672,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1676238665672,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Launching dashboard"}
+{"level":30,"time":1676238665846,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1676238666328,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1676238666352,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1676238668338,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Logged in as Jacoby#0201! (996103577556758538)"}
+{"level":20,"time":1676238668338,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1676238668339,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Music Manager initialized"}
+{"level":30,"time":1676238668339,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1676238668379,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Giveaway Manager initialized"}
+{"level":20,"time":1676238668588,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"8s36dcmuplxejpxo\",\"op\":\"ready\"}"}
+{"level":30,"time":1676238668589,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" connected"}
+{"level":20,"time":1676238668590,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: connected in 251ms"}
+{"level":20,"time":1676238668591,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< stats: {\"players\":8,\"playingPlayers\":2,\"uptime\":152021537,\"memory\":{\"free\":19385690984,\"used\":2089145496,\"allocated\":21474836480,\"reservable\":21474836480},\"cpu\":{\"cores\":40,\"systemLoad\":0.039476856316297014,\"lavalinkLoad\":0.0013240250361097737},\"op\":\"stats\"}"}
+{"level":30,"time":1676238668668,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Successfully registered interactions"}
+{"level":20,"time":1676238722204,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: rest: + GET /loadtracks?identifier=scsearch%3Adesapisto"}
+{"level":20,"time":1676238722205,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: [player 1070455475616895026] voice: updating voice status in guild=1070455475616895026, channel=null"}
+{"level":20,"time":1676238722259,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: [player 1070455475616895026] voice: submitting voice update"}
+{"level":20,"time":1676238722259,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient >>> voiceUpdate: {\"op\":\"voiceUpdate\",\"guildId\":\"1070455475616895026\",\"sessionId\":\"ccee83ccafd51ef88871bf1bb9752a8c\",\"event\":{\"token\":\"1cd6357aa2ae9f61\",\"guild_id\":\"1070455475616895026\",\"endpoint\":\"us-east3326.discord.media:443\"}}"}
+{"level":50,"time":1676238722375,"pid":6564,"hostname":"DESKTOP-7OFETF7","err":{"type":"TypeError","message":"Cannot read properties of undefined (reading 'track')","stack":"TypeError: Cannot read properties of undefined (reading 'track')\n    at new Song (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\@lavaclient\\queue\\dist\\lib\\Song.js:7:64)\n    at C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\@lavaclient\\queue\\dist\\lib\\Queue.js:100:157\n    at Array.map (<anonymous>)\n    at Queue.add (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\node_modules\\@lavaclient\\queue\\dist\\lib\\Queue.js:100:108)\n    at play (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\src\\commands\\music\\play.js:204:16)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Object.interactionRun (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\src\\commands\\music\\play.js:45:22)\n    at async Object.handleSlashCommand (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\src\\handlers\\command.js:140:7)\n    at async module.exports (C:\\Users\\Anju Tiwari\\Desktop\\discord-js-bot-main\\src\\events\\interactions\\interactionCreate.js:18:5)"},"msg":"interactionRun: Cannot read properties of undefined (reading 'track')"}
+{"level":20,"time":1676238722477,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< playerUpdate: {\"state\":{\"time\":1676238785363,\"position\":0,\"connected\":true,\"ping\":0},\"guildId\":\"1070455475616895026\",\"op\":\"playerUpdate\"}"}
+{"level":20,"time":1676238728097,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: rest: + GET /loadtracks?identifier=scsearch%3AHi"}
+{"level":20,"time":1676238728097,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient >>> play: {\"op\":\"play\",\"track\":\"QAABdQIAVFRocm93IFNvbWUgTW8gKEhpIHggUmFlIFNyZW1tdXJkIHggTmlja2kgTWluYWogeCBZb3VuZyBUaHVnKSBQcm9kOiBNaWtlIFdpbGwgTWFkZSBJdAAdSGkgSmFja3NvbiAmIFRoZSBDb3VudHJ5IENsdWIAAAAAAAPHpABxVTpodHRwczovL2FwaS12Mi5zb3VuZGNsb3VkLmNvbS9tZWRpYS9zb3VuZGNsb3VkOnRyYWNrczoxODEwOTI4MDAvYjE2ZjdjOTAtNDE0YS00NWE0LTk1ODYtMmFiMTE4ZWY3NzUzL3N0cmVhbS9obHMAAQBsaHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9oaS1qYWNrc29uL3Rocm93LXNvbWUtbW8taGktdy1qYWNrc29uLXgtcmFlLXNyZW1tdXJkLXgtbmlja2ktbWluYWoteC15b3VuZy10aHVnLWZpbmFsAApzb3VuZGNsb3VkAAAAAAAAAAA=\",\"guildId\":\"1070455475616895026\"}"}
+{"level":20,"time":1676238728144,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< event: {\"encodedTrack\":\"QAABdQIAVFRocm93IFNvbWUgTW8gKEhpIHggUmFlIFNyZW1tdXJkIHggTmlja2kgTWluYWogeCBZb3VuZyBUaHVnKSBQcm9kOiBNaWtlIFdpbGwgTWFkZSBJdAAdSGkgSmFja3NvbiAmIFRoZSBDb3VudHJ5IENsdWIAAAAAAAPHpABxVTpodHRwczovL2FwaS12Mi5zb3VuZGNsb3VkLmNvbS9tZWRpYS9zb3VuZGNsb3VkOnRyYWNrczoxODEwOTI4MDAvYjE2ZjdjOTAtNDE0YS00NWE0LTk1ODYtMmFiMTE4ZWY3NzUzL3N0cmVhbS9obHMAAQBsaHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9oaS1qYWNrc29uL3Rocm93LXNvbWUtbW8taGktdy1qYWNrc29uLXgtcmFlLXNyZW1tdXJkLXgtbmlja2ktbWluYWoteC15b3VuZy10aHVnLWZpbmFsAApzb3VuZGNsb3VkAAAAAAAAAAA=\",\"track\":\"QAABdQIAVFRocm93IFNvbWUgTW8gKEhpIHggUmFlIFNyZW1tdXJkIHggTmlja2kgTWluYWogeCBZb3VuZyBUaHVnKSBQcm9kOiBNaWtlIFdpbGwgTWFkZSBJdAAdSGkgSmFja3NvbiAmIFRoZSBDb3VudHJ5IENsdWIAAAAAAAPHpABxVTpodHRwczovL2FwaS12Mi5zb3VuZGNsb3VkLmNvbS9tZWRpYS9zb3VuZGNsb3VkOnRyYWNrczoxODEwOTI4MDAvYjE2ZjdjOTAtNDE0YS00NWE0LTk1ODYtMmFiMTE4ZWY3NzUzL3N0cmVhbS9obHMAAQBsaHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9oaS1qYWNrc29uL3Rocm93LXNvbWUtbW8taGktdy1qYWNrc29uLXgtcmFlLXNyZW1tdXJkLXgtbmlja2ktbWluYWoteC15b3VuZy10aHVnLWZpbmFsAApzb3VuZGNsb3VkAAAAAAAAAAA=\",\"guildId\":\"1070455475616895026\",\"op\":\"event\",\"type\":\"TrackStartEvent\"}"}
+{"level":20,"time":1676238728144,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< playerUpdate: {\"state\":{\"time\":1676238791026,\"position\":0,\"connected\":true,\"ping\":0},\"guildId\":\"1070455475616895026\",\"op\":\"playerUpdate\"}"}
+{"level":20,"time":1676238728144,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< playerUpdate: {\"state\":{\"time\":1676238791026,\"position\":0,\"connected\":true,\"ping\":0},\"guildId\":\"1070455475616895026\",\"op\":\"playerUpdate\"}"}
+{"level":20,"time":1676238728584,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< stats: {\"players\":9,\"playingPlayers\":3,\"uptime\":152081537,\"memory\":{\"free\":19330999112,\"used\":2143837368,\"allocated\":21474836480,\"reservable\":21474836480},\"cpu\":{\"cores\":40,\"systemLoad\":0.03856118575646201,\"lavalinkLoad\":0.002468095352757043},\"op\":\"stats\"}"}
+{"level":20,"time":1676238733140,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< playerUpdate: {\"state\":{\"time\":1676238796025,\"position\":5160,\"connected\":true,\"ping\":0},\"guildId\":\"1070455475616895026\",\"op\":\"playerUpdate\"}"}
+{"level":20,"time":1676238738088,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: [player 1070455475616895026] voice: updating voice status in guild=1070455475616895026, channel=1070455475616895030"}
+{"level":20,"time":1676238738088,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient >>> destroy: {\"op\":\"destroy\",\"guildId\":\"1070455475616895026\"}"}
+{"level":20,"time":1676238738127,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< event: {\"encodedTrack\":\"QAABdQIAVFRocm93IFNvbWUgTW8gKEhpIHggUmFlIFNyZW1tdXJkIHggTmlja2kgTWluYWogeCBZb3VuZyBUaHVnKSBQcm9kOiBNaWtlIFdpbGwgTWFkZSBJdAAdSGkgSmFja3NvbiAmIFRoZSBDb3VudHJ5IENsdWIAAAAAAAPHpABxVTpodHRwczovL2FwaS12Mi5zb3VuZGNsb3VkLmNvbS9tZWRpYS9zb3VuZGNsb3VkOnRyYWNrczoxODEwOTI4MDAvYjE2ZjdjOTAtNDE0YS00NWE0LTk1ODYtMmFiMTE4ZWY3NzUzL3N0cmVhbS9obHMAAQBsaHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9oaS1qYWNrc29uL3Rocm93LXNvbWUtbW8taGktdy1qYWNrc29uLXgtcmFlLXNyZW1tdXJkLXgtbmlja2ktbWluYWoteC15b3VuZy10aHVnLWZpbmFsAApzb3VuZGNsb3VkAAAAAAAAJ4g=\",\"track\":\"QAABdQIAVFRocm93IFNvbWUgTW8gKEhpIHggUmFlIFNyZW1tdXJkIHggTmlja2kgTWluYWogeCBZb3VuZyBUaHVnKSBQcm9kOiBNaWtlIFdpbGwgTWFkZSBJdAAdSGkgSmFja3NvbiAmIFRoZSBDb3VudHJ5IENsdWIAAAAAAAPHpABxVTpodHRwczovL2FwaS12Mi5zb3VuZGNsb3VkLmNvbS9tZWRpYS9zb3VuZGNsb3VkOnRyYWNrczoxODEwOTI4MDAvYjE2ZjdjOTAtNDE0YS00NWE0LTk1ODYtMmFiMTE4ZWY3NzUzL3N0cmVhbS9obHMAAQBsaHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9oaS1qYWNrc29uL3Rocm93LXNvbWUtbW8taGktdy1qYWNrc29uLXgtcmFlLXNyZW1tdXJkLXgtbmlja2ktbWluYWoteC15b3VuZy10aHVnLWZpbmFsAApzb3VuZGNsb3VkAAAAAAAAJ4g=\",\"reason\":\"STOPPED\",\"guildId\":\"1070455475616895026\",\"op\":\"event\",\"type\":\"TrackEndEvent\"}"}
+{"level":20,"time":1676238738128,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< event: {\"code\":1000,\"reason\":\"\",\"byRemote\":false,\"guildId\":\"1070455475616895026\",\"op\":\"event\",\"type\":\"WebSocketClosedEvent\"}"}
+{"level":20,"time":1676238738128,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< playerUpdate: {\"state\":{\"time\":1676238801012,\"position\":0,\"connected\":false,\"ping\":-1},\"guildId\":\"1070455475616895026\",\"op\":\"playerUpdate\"}"}
+{"level":20,"time":1676238788590,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< stats: {\"players\":8,\"playingPlayers\":2,\"uptime\":152141537,\"memory\":{\"free\":19302184464,\"used\":2172652016,\"allocated\":21474836480,\"reservable\":21474836480},\"cpu\":{\"cores\":40,\"systemLoad\":0.0399903637677668,\"lavalinkLoad\":0.0012039489525644113},\"op\":\"stats\"}"}
+{"level":20,"time":1676238848584,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< stats: {\"players\":8,\"playingPlayers\":2,\"uptime\":152201537,\"memory\":{\"free\":19269827728,\"used\":2205008752,\"allocated\":21474836480,\"reservable\":21474836480},\"cpu\":{\"cores\":40,\"systemLoad\":0.08264014466546112,\"lavalinkLoad\":0.0012638420799229656},\"op\":\"stats\"}"}
+{"level":20,"time":1676238908582,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< stats: {\"players\":8,\"playingPlayers\":2,\"uptime\":152261537,\"memory\":{\"free\":19234614072,\"used\":2240222408,\"allocated\":21474836480,\"reservable\":21474836480},\"cpu\":{\"cores\":40,\"systemLoad\":0.042519874728980965,\"lavalinkLoad\":0.0012638420799229656},\"op\":\"stats\"}"}
+{"level":20,"time":1676238968578,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< stats: {\"players\":8,\"playingPlayers\":2,\"uptime\":152321537,\"memory\":{\"free\":19205593152,\"used\":2269243328,\"allocated\":21474836480,\"reservable\":21474836480},\"cpu\":{\"cores\":40,\"systemLoad\":0.04422752470474813,\"lavalinkLoad\":0.0013243438478208525},\"op\":\"stats\"}"}
+{"level":20,"time":1676239028577,"pid":6564,"hostname":"DESKTOP-7OFETF7","msg":"Node \"Local Node\" debug: connection: lavaclient <<< stats: {\"players\":9,\"playingPlayers\":3,\"uptime\":152381537,\"memory\":{\"free\":19130110024,\"used\":2344726456,\"allocated\":21474836480,\"reservable\":21474836480},\"cpu\":{\"cores\":40,\"systemLoad\":0.04380883417813179,\"lavalinkLoad\":0.0022869523350986997},\"op\":\"stats\"}"}
